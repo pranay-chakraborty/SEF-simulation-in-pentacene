@@ -1,3 +1,5 @@
+**Timeline of the project**
+
 Quantum Mechanical Modeling of Singlet Fission in Pentacene Crystals: Thorough Structural Analysis, Scalable Hamiltonian Modeling, Eigenstates Characterization, and Simulation of Absorption Spectrum.
 
 - **Basics:** To begin with, I read relevant portions from [Casanova's paper](https://doi.org/10.1021/acs.chemrev.7b00601) on theoretical modeling of singlet exciton fission, to gain a footing in the topic. More importantly, I gained knowledge of the basis states that shall be used to construct the Hamiltonian, their significance etc.
